@@ -5,6 +5,13 @@ Install third-party packages during node runtime for electron applications.
 
 This package uses `atom-plugin-manager` to install third-party packages.
 
+Features
+--------
+
+* Download and install node packages from github
+* Install all node package dependencies
+* Import plugins dynamically
+
 Examples
 --------
 
