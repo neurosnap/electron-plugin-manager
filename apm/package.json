@@ -1,0 +1,11 @@
+{
+  "name": "epm-bundled-apm",
+  "description": "EPM's bundled apm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neurosnap/epm"
+  },
+  "dependencies": {
+    "atom-package-manager": "1.6.0"
+  }
+}

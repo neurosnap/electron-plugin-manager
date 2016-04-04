@@ -1,0 +1,27 @@
+{
+  "name": "electron-plugin-manager",
+  "version": "0.0.1",
+  "description": "Plugin manager for electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no testing implemented'"
+  },
+  "keywords": [
+    "electron",
+    "plugin",
+    "manager"
+  ],
+  "author": "Eric Bower",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neurosnap/electron-plugin-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neurosnap/electron-plugin-manager/issues"
+  },
+  "homepage": "https://github.com/neurosnap/electron-plugin-manager#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
