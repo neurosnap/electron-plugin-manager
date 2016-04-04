@@ -1,0 +1,14 @@
+{
+  "name": "console",
+  "version": "0.0.1",
+  "description": "Console shit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Bower",
+  "license": "MIT",
+  "dependencies": {
+    "better-console": "^0.2.4"
+  }
+}
