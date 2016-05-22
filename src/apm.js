@@ -6,6 +6,8 @@ const spawnPromise = require('./util');
 
 module.exports = installApm;
 
+function getConfig() {}
+
 function installApm(location, apmEnv, targetElectronVersion, nodeVersion) {
   const apmInstallPath = location || path.join(__dirname, 'apm');
   const apmFlags = process.env.JANKY_SHA1 || process.argv.indexOf('--no-color') !== -1 ? ' --no-color' : '';
