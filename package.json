@@ -1,7 +1,7 @@
 {
-  "name": "electron-plugin-loader",
+  "name": "electron-plugin-manager",
   "version": "0.0.1",
-  "description": "Plugin loader for electron",
+  "description": "Plugin manager for electron",
   "main": "index.js",
   "scripts": {
     "test": "echo 'no testing implemented'"
@@ -15,12 +15,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neurosnap/electron-plugin-loader.git"
+    "url": "git+https://github.com/neurosnap/electron-plugin-manager.git"
   },
   "bugs": {
-    "url": "https://github.com/neurosnap/electron-plugin-loader/issues"
+    "url": "https://github.com/neurosnap/electron-plugin-manager/issues"
   },
-  "homepage": "https://github.com/neurosnap/electron-plugin-loader#readme",
+  "homepage": "https://github.com/neurosnap/electron-plugin-manager#readme",
   "dependencies": {
   }
 }

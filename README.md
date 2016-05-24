@@ -1,5 +1,5 @@
-Electron Plugin Loader
-======================
+Electron Plugin Manager
+=======================
 
 Install third-party packages during node runtime for electron applications.
 
